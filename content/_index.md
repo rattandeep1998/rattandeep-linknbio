@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Rattandeep Singh'
+date: 2024-01-09
 type: landing
 
 design:
